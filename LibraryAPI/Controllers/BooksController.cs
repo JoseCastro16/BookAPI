@@ -27,7 +27,7 @@ namespace LibraryAPI.Controllers
             var books = await _context.Books.Include(b => b.Author).ToListAsync();
             var responseObject = new BookResponse()
             {
-                StatusCode = 200,
+                StatusCode =200,
                 StatusDescription = "Successful. Able to retrieve all books",
                 Books = books
             };
