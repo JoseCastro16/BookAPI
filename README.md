@@ -3,7 +3,7 @@
 ## Author Endpoints
 
 | Endpoint                | Description                             | Request Body
-| _ _ _ _ _ _ _ _ _ _ _   | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ _ _ _ _ _ _
+| - - - - - - - - - - -   | - - - - - - - - - - - - - - - - - - - - | - - - - - - - - - 
 | Get/api/authors         | Gets all authors                        | N/A
 | Get/api/authors/{id}    | Gets the author with the given id       | N/A
 | Put/api/authors/{id}    | Updates the author with the given id    | Author Object
@@ -15,7 +15,7 @@
 ## Book Endpoints
 
 | Endpoint                | Description                             | Request Body
-| _ _ _ _ _ _ _ _ _ _ _   | _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ _ _ _ _ _ _
+| - - - - - - - - - - - - | - - - - - - - - - - - - - - - - - - - - | - - - - - - - - -
 | Get/api/books           | Gets all books                          | N/A
 | Get/api/books/{id}      | Gets the book with the given id         | N/A
 | Put/api/books/{id}      | Updates the book with the given id      | Book Object
