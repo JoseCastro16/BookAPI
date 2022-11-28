@@ -1,4 +1,4 @@
-# LibraryAPI
+# BookAPI
 
 ## Author Endpoints
 
