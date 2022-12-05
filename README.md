@@ -10,7 +10,7 @@
 | Post/api/authors        | Creates a new author                    | Author Object
 | Delete/api/authors/{id} | Deletes the author with the given id    | N/A
 
-Author Object = {firstname, lastname}
+Author Object = { firstname, lastname }
 
 ### Author Sample Response Body
 
@@ -30,7 +30,7 @@ Author Object = {firstname, lastname}
 | Post/api/books          | Creates a new book                      | Book Object
 | Delete/api/books/{id}   | Deletes the book with the given id      | N/A
 
-Book Object = {title, authorid || new author object}
+Book Object = { title, authorid || new author object }
 
 ### Book Sample Response Body
 
